@@ -1,0 +1,15 @@
+# Arquivos gerados
+*.pdf
+
+# Fontes baixadas
+*.ttf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
